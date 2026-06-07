@@ -1,0 +1,6 @@
+{
+  "name": "Silver Jewellery",
+  "description": "A premium boutique for exquisite sterling silver jewelry. Explore curated rings, necklaces, and custom-designed artisan bracelets with our AI Styling Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
